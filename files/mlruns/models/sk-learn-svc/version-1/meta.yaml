@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745205959685
+current_stage: None
+description: null
+last_updated_timestamp: 1745205959685
+name: sk-learn-svc
+run_id: c6e8d90420f64151ab729e3b38ed77e2
+run_link: null
+source: file:///workspaces/anime-predictor/files/mlruns/0/c6e8d90420f64151ab729e3b38ed77e2/artifacts
+status: READY
+status_message: null
+storage_location: file:///workspaces/anime-predictor/files/mlruns/0/c6e8d90420f64151ab729e3b38ed77e2/artifacts
+user_id: null
+version: 1

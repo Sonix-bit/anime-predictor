@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anime-predictor/files/mlruns/0/51d61a1285cf4023b57f48ffb7eef4ad/artifacts
+end_time: 1745205489683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51d61a1285cf4023b57f48ffb7eef4ad
+run_name: learned-ant-391
+run_uuid: 51d61a1285cf4023b57f48ffb7eef4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745205488108
+status: 4
+tags: []
+user_id: codespace

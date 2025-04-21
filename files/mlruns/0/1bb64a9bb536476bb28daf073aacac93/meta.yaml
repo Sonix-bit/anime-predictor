@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anime-predictor/files/mlruns/0/1bb64a9bb536476bb28daf073aacac93/artifacts
+end_time: 1745205004771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bb64a9bb536476bb28daf073aacac93
+run_name: burly-ray-211
+run_uuid: 1bb64a9bb536476bb28daf073aacac93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745204999303
+status: 3
+tags: []
+user_id: codespace

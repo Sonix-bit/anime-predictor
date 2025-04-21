@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anime-predictor/files/mlruns/0/5a926970c3164456870bf62757800a42/artifacts
+end_time: 1745206265199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a926970c3164456870bf62757800a42
+run_name: worried-seal-458
+run_uuid: 5a926970c3164456870bf62757800a42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745206253498
+status: 3
+tags: []
+user_id: codespace

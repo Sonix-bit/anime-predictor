@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anime-predictor/files/mlruns/0/f905aa78c757476ab657e9ddbca81823/artifacts
+end_time: 1745205417858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f905aa78c757476ab657e9ddbca81823
+run_name: classy-turtle-949
+run_uuid: f905aa78c757476ab657e9ddbca81823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745205410612
+status: 3
+tags: []
+user_id: codespace

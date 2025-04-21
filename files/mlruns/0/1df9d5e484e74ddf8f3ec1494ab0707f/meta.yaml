@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anime-predictor/files/mlruns/0/1df9d5e484e74ddf8f3ec1494ab0707f/artifacts
+end_time: 1745205163439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1df9d5e484e74ddf8f3ec1494ab0707f
+run_name: youthful-shrimp-840
+run_uuid: 1df9d5e484e74ddf8f3ec1494ab0707f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745205159221
+status: 3
+tags: []
+user_id: codespace

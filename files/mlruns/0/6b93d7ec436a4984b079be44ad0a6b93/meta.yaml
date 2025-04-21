@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/anime-predictor/files/mlruns/0/6b93d7ec436a4984b079be44ad0a6b93/artifacts
+end_time: 1745205763576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b93d7ec436a4984b079be44ad0a6b93
+run_name: masked-crane-968
+run_uuid: 6b93d7ec436a4984b079be44ad0a6b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745205759373
+status: 3
+tags: []
+user_id: codespace
